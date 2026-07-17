@@ -1,0 +1,11 @@
+dependencies {
+    implementation 'androidx.appcompat:appcompat:1.6.1'
+    implementation 'com.google.android.material:material:1.9.0'
+    implementation 'androidx.constraintlayout:constraintlayout:2.1.4'
+    
+    // FFmpeg Kit untuk manipulasi metadata video
+    implementation 'com.com.arthenica:ffmpeg-kit-full:4.5'
+    
+    // Optional: Library untuk manipulasi XMP lebih mudah
+    // implementation 'com.github.dragon66:pixymeta-android:v1.0'
+}
